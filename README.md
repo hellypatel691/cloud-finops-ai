@@ -33,3 +33,21 @@ notebooks/
 scripts/
 tests/
 ```
+
+
+## Current Progress
+
+- [✔] Project Architecture
+- [✔] ETL Pipeline
+- [✔] Dataset Profiling
+- [✔] FastAPI Setup
+- [✔] Neon PostgreSQL Connection
+- [✔] Organization Table
+
+- [ ] CSV Upload
+- [ ] Billing Records
+- [ ] Forecasting
+- [ ] Anomaly Detection
+- [ ] Dashboard
+- [ ] Docker
+- [ ] Deployment
