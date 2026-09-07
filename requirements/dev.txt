@@ -1,0 +1,15 @@
+-r base.txt
+
+# Testing
+pytest==8.3.5
+pytest-asyncio==0.24.0
+httpx==0.28.1
+
+# Linting & formatting
+ruff==0.9.10
+black==25.1.0
+
+# Auth (dev only — same versions as prod)
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.1

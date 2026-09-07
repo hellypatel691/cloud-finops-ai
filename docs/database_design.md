@@ -24,3 +24,12 @@ id
 name
 
 description
+
+
+Constraints
+
+- Name must be unique.
+
+- Name cannot be NULL.
+
+- Description is optional.

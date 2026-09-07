@@ -68,3 +68,22 @@ Consequences
 - Reproducible database changes
 - Rollback capability
 - Production-ready workflow
+
+
+Decision 005
+
+Title
+
+Unique Organization Names
+
+Decision
+
+Organization names are unique.
+
+Reason
+
+Avoid duplicate companies.
+
+Simplify organization lookup.
+
+Improve data consistency.
